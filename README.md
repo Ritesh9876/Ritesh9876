@@ -50,8 +50,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/riteshmangdare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritesh9876" height="30" width="40" /></a>
-
-
 <a href="https://leetcode.com/Ritesh_Mangdare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ritesh9876" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/riteshmangdare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ritesh9876" height="30" width="40" /></a>
 </p>
