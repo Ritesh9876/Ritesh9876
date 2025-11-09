@@ -8,7 +8,6 @@
 
 
 - 🔭 I am a Full Stack Developer.
-- 🌱 I am currently learning Python/Django 
 - 👯 I’m looking to contribute to open source
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riteshmangdare@gmail.com)](mailto:riteshmangdare@gmail.com) 
