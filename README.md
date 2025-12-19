@@ -17,7 +17,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=Ritesh9876&theme=onedark)
+![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=Ritesh9876&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
 
 <br>
 
