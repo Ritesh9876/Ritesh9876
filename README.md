@@ -7,8 +7,8 @@
 <br>
 
 
-- 🔭 I am a Full Stack Developer.
-- 👯 I’m looking to contribute to open source
+- 🔭 I am a Full Stack Developer currently looking for a role.
+- 👯 I am a open source contributor.
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riteshmangdare@gmail.com)](mailto:riteshmangdare@gmail.com) 
 - ⚡ Fun fact: I love to go to the gym
